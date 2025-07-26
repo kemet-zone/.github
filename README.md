@@ -11,6 +11,7 @@
 </div>
 <p align="center">
     <b>
+        <br>
         Civilizations aren't inherited — they're built.
     </b>
 </p>
