@@ -29,9 +29,8 @@
 
 - ### Milestones
 
-  1. #### [kemet-lang](#)
-  2. #### [kemet-editor](#)
-  3. #### [kemet-platform](#)
+  1. #### [kemet-dev](https://github.com/kemet-dev)
+  2. #### [kemet-lang](https://github.com/kemet-lang)
 
 <br>
 <div align="center">
